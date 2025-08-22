@@ -48,3 +48,19 @@ h2 {
 .justify-center {
     justify-content: center;
 }
+
+.justify-end {
+    justify-content:flex-end;
+}
+
+.flex-item {
+    width: 80px;
+    height: 80px;
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(255, 208, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    margin: 10px;
+}
