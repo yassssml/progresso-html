@@ -1,8 +1,10 @@
 .retangulo {
-    width: 400px;
-    height: 200px;
+    width: 150px;
+    height: 150px;
     background-color: aqua;
+    border-radius: 50%;
     margin: 50px auto;
+    align-items: center;
 }
 
 .container {
@@ -24,4 +26,12 @@
 
 .roxo {
     background-color: blueviolet;
+}
+
+.vermelho {
+    background-color: rgb(255, 0, 0);
+}
+
+.amarelo {
+    background-color: rgb(255, 196, 0);
 }
