@@ -1,0 +1,27 @@
+.retangulo {
+    width: 400px;
+    height: 200px;
+    background-color: aqua;
+    margin: 50px auto;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    gap: 20px;
+}
+
+.quadrado {
+    width: 150px;
+    height: 150px;
+}
+
+.verde {
+    background-color: rgb(0, 255, 42);
+}
+
+.roxo {
+    background-color: blueviolet;
+}
