@@ -24,13 +24,15 @@ h2 {
 }
 
 .Flex-countainer {
-    width: 90%;
+    width: 40%;
     height: 200px;
     background-color: rgb(255, 236, 152);
     margin: 0 auto 20px;
     display: flex;
     justify-content: flex-start;
     align-items: center;
+    margin-top: 30px;
+    
 }
 
 .flex-item {
@@ -71,4 +73,11 @@ h2 {
 
 .justify-around {
     justify-content: space-around;
+}
+
+.retangulo {
+    width: 400px;
+    height: 200px;
+    background-color: aqua;
+    margin: 50px auto;
 }
