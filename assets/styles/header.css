@@ -32,4 +32,10 @@ header {
 
 .menu a:hover {
     color: rgb(150, 216, 255);
+  
+}
+
+img {
+    width: 200px;
+    box-shadow: 0 0 white;
 }
