@@ -49,23 +49,26 @@
   height: 600px;
   gap: 30px;
   background-color: rgb(43, 44, 44);
-  width: 220px;
+  width: 320px;
   border-radius: 25px;
   margin: 0 auto 30px;
 }
 .circulo {
- width: 100px;
- height: 100px;
+ width: 150px;
+ height: 150px;
  border-radius: 50%;
 }
 .vermelho {
     background-color: rgb(255, 0, 0);
+    box-shadow: 0 0 20px rgb(255, 11, 11);
 }
 
 .amarelo {
     background-color: rgb(255, 196, 0);
+    box-shadow: 0 0 20px rgb(255, 239, 21);
 }
 
 .verde {
     background-color: rgb(51, 228, 66);
+    box-shadow: 0 0 20px rgb(0, 255, 0);
 }
